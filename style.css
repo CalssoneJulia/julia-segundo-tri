@@ -1,0 +1,28 @@
+body {background-color: rgb(181, 129, 241);
+}
+
+.p1 {font-size: 200%;
+    text-align: center;
+    background-color: rgb(140, 83, 255);
+    border-color: rgb(255, 255, 255);
+    border-width: 6px;
+    border-style: double;
+    margin-left: 20%;
+margin-right: 20%;
+margin-top: 1%;
+}
+
+
+.p2 { font-size: 200%;
+    text-align: center;
+    background-color: rgb(125, 67, 184);
+border-color: rgb(255, 255, 255);
+border-width: 6px;
+border-style: double;
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 1%;
+}
+
+
+.p3 {}
